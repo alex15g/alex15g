@@ -49,6 +49,6 @@ Internship or junior opportunities in:
 
 ## How to reach me:
 - alexandrugavris2005@gmail.com
-- linkedin.com/in/alexandru-cătălin-gavriș
+- [LinkedIn](https://www.linkedin.com/in/alexandru-c%C4%83t%C4%83lin-gavri%C8%99-662a553b2/)
 
 I am motivated to grow in environments where I can deepen my understanding of system-level design and contribute to meaningful technical projects.
