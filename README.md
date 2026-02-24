@@ -19,7 +19,7 @@ Relational Database Design & Normalization
 Embedded Systems & Sensor Integration  
 
 **Tools & Technologies**  
-Git, Vivado, Arduino IDE, IntelliJ IDEA, Visual Studio, MySQL, Linux  
+Git, Vivado, Arduino IDE, IntelliJ IDEA, Visual Studio, MySQL 
 
 ---
 
@@ -49,5 +49,6 @@ Internship or junior opportunities in:
 
 ## How to reach me:
 - alexandrugavris2005@gmail.com
+- linkedin.com/in/alexandru-cătălin-gavriș
 
 I am motivated to grow in environments where I can deepen my understanding of system-level design and contribute to meaningful technical projects.
