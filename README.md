@@ -17,7 +17,7 @@ I am a 3rd-year Computer Engineering student at the Technical University of Cluj
   Architected a multi-threaded reverse proxy from scratch using native Blocking I/O (`ServerSocket`, `ExecutorService`). Features a thread-safe Token-Bucket rate limiter, dynamic hot-reloading, active TCP health checks, and a JVM graceful shutdown hook. 
   *📈 Performance:* Load-tested with `autocannon`, sustaining **3,700+ req/s** with zero dropped connections under 100 concurrent clients.
 
-* **[AI Defense Telemetry Engine (SafeStart)](https://github.com/alex15g/MIPS32-Pipeline-VHDL)** *(Python, FastAPI, React Native)*
+* **[AI Defense Telemetry Engine (SafeStart)](https://github.com/tudor-stack/drivesafe)** *(Python, FastAPI, React Native)*
   Built in exactly 48 hours for the GDG Hackathon. Developed data processing pipelines that ingested raw smartphone telemetry (accelerometer, gyroscope) and classified aggressive driving patterns using kinematic thresholds and multi-LLM architecture.
 
 * **[MIPS32 Pipelined Microprocessor](https://github.com/alex15g/MIPS32-Pipeline-VHDL)** *(VHDL, FPGA)*
