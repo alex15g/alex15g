@@ -13,7 +13,7 @@ I am a 3rd-year Computer Engineering student at the Technical University of Cluj
 
 ### 🚀 Featured Projects
 
-* **[L7 API Gateway & Load Balancer]([https://github.com/alex15g/API_gateway](https://github.com/alex15g/l7-api-gateway))** *(Java 17, TCP/IP, Docker, Concurrency)*
+* **[L7 API Gateway & Load Balancer]((https://github.com/alex15g/l7-api-gateway))** *(Java 17, TCP/IP, Docker, Concurrency)*
   Architected a multi-threaded reverse proxy from scratch using native Blocking I/O (`ServerSocket`, `ExecutorService`). Features a thread-safe Token-Bucket rate limiter, dynamic hot-reloading, active TCP health checks, and a JVM graceful shutdown hook. 
   *📈 Performance:* Load-tested with `autocannon`, sustaining **3,700+ req/s** with zero dropped connections under 100 concurrent clients.
 
