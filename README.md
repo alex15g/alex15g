@@ -1,54 +1,46 @@
-# Alexandru Gavriș
+# Hi there 👋, I'm Alexandru Gavriș
 
-Computer Engineering student at the Technical University of Cluj-Napoca (UTCN), with hands-on experience in embedded systems and software development through academic and practical projects.
+**Software Developer | Backend Architecture & Embedded Systems | 2nd Place GDG Hackathon**
 
-I am particularly interested in low-level programming, digital system design, and backend development. I enjoy building structured systems, understanding how they work at a deeper level, and writing clean, efficient code.
+I am a 3rd-year Computer Engineering student at the Technical University of Cluj-Napoca (UTCN), bridging the gap between low-level hardware constraints and high-performance backend systems. Whether I'm designing physical data acquisition prototypes in C/C++ or architecting concurrent Dockerized APIs in Java, I enjoy building structured, fault-tolerant systems from the ground up.
 
----
-
-## Technical Skills
-
-**Programming Languages**  
-C / C++, Java, x86 Assembly (MASM), VHDL, SQL  
-
-**Core Concepts**  
-Data Structures & Algorithms  
-Object-Oriented Programming (OOP)  
-Finite State Machines (FSM)  
-Relational Database Design & Normalization  
-Embedded Systems & Sensor Integration  
-
-**Tools & Technologies**  
-Git, Vivado, Arduino IDE, IntelliJ IDEA, Visual Studio, MySQL 
+### 💼 Experience & Achievements
+* 🥈 **2nd Place Winner out of ~15 teams** at the Google Developer Groups (GDG) Hackathon.
+* 💻 **Software Developer Intern at Life is Hard S.A.** – Automated business processes and dispatched documents ~95% faster via a custom PHP/MySQL platform and 24Broker API integration.
+* ♟️ **Competitive Chess Player (13 years)** – Peak Elo 1800, 3rd Place Nationals. Taught me how to evaluate engineering trade-offs and execute strategies under pressure.
 
 ---
 
-## Selected Projects
+### 🚀 Featured Projects
 
-### Washing Machine Controller – VHDL
-Designed and implemented a Finite State Machine for controlling operational modes and timing logic of a washing machine.  
-Validated functionality through simulation (testbench) and hardware implementation on FPGA.
+* **[L7 API Gateway & Load Balancer](https://github.com/alex15g/API_gateway)** *(Java 17, TCP/IP, Docker, Concurrency)*
+  Architected a multi-threaded reverse proxy from scratch using native Blocking I/O (`ServerSocket`, `ExecutorService`). Features a thread-safe Token-Bucket rate limiter, dynamic hot-reloading, active TCP health checks, and a JVM graceful shutdown hook. 
+  *📈 Performance:* Load-tested with `autocannon`, sustaining **3,700+ req/s** with zero dropped connections under 100 concurrent clients.
 
-### Car Dealership Management System – Java + SQL
-Developed a full-stack application for managing clients, vehicles, employees, and services.  
-Implemented using layered architecture and OOP principles (inheritance, polymorphism, interfaces).  
-Designed and integrated a normalized relational database with integrity constraints and complex SQL queries.
+* **[AI Defense Telemetry Engine (SafeStart)](link-catre-repo-daca-exista)** *(Python, FastAPI, React Native)*
+  Built in exactly 48 hours for the GDG Hackathon. Developed data processing pipelines that ingested raw smartphone telemetry (accelerometer, gyroscope) and classified aggressive driving patterns using kinematic thresholds and multi-LLM architecture.
 
-### Stress Detection System – Arduino
-Built an embedded system for real-time monitoring of physiological signals.  
-Integrated multiple analog and digital sensors and processed data for live display and analysis.
+* **[MIPS32 Pipelined Microprocessor](link-catre-repo-daca-exista)** *(VHDL, FPGA)*
+  Architected a 32-bit 5-stage pipelined MIPS processor with custom ISA extensions. Deployed and physically validated the synthesized bitstream on an FPGA to execute custom assembly routines from ROM.
+
+* **[AutoManager - Dealership System](link-catre-repo-daca-exista)** *(Java 17, SQL Server, JDBC)*
+  Developed a layered MVC application featuring a custom Reflection-based DAO layer, Role-Based Access Control (RBAC), and strict database normalization.
 
 ---
 
-## Currently Seeking
+### 🛠️ Technical Arsenal
 
-Internship or junior opportunities in:
-- Embedded Systems
-- Backend Development
-- Systems Programming
+* **Backend & Systems:** Java 17, Python, PHP, FastAPI, Laravel, C/C++
+* **Architecture & DevOps:** Docker, TCP/IP, Concurrent Programming, RESTful APIs, OOP, Design Patterns
+* **Databases:** MySQL, SQL Server, JDBC, Relational Normalization
+* **Hardware & Embedded:** VHDL, x86 Assembly, Finite State Machines (FSM), Microcontrollers (Arduino/ATmega), Sensor Integration (I2C, OneWire)
+* **Tools:** Git, Docker, IntelliJ IDEA, Vivado, Postman
 
-## How to reach me:
-- alexandrugavris2005@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/alexandru-c%C4%83t%C4%83lin-gavri%C8%99-662a553b2/)
+---
 
-I am motivated to grow in environments where I can deepen my understanding of system-level design and contribute to meaningful technical projects.
+### 📫 Let's Connect
+
+I am currently looking for an **Internship in Backend or Embedded Systems** to transition from academic prototypes to real-world engineering.
+
+* **Email:** alexandrugavris2005@gmail.com
+* **LinkedIn:** [linkedin.com/in/alexandru-cătălin-gavriş](https://linkedin.com/in/alexandru-cătălin-gavriş)
