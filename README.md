@@ -23,9 +23,6 @@ I am a 3rd-year Computer Engineering student at the Technical University of Cluj
 * **[MIPS32 Pipelined Microprocessor](https://github.com/alex15g/MIPS32-Pipeline-VHDL)** *(VHDL, FPGA)*
   Architected a 32-bit 5-stage pipelined MIPS processor with custom ISA extensions. Deployed and physically validated the synthesized bitstream on an FPGA to execute custom assembly routines from ROM.
 
-* **[AutoManager - Dealership System](link-catre-repo-daca-exista)** *(Java 17, SQL Server, JDBC)*
-  Developed a layered MVC application featuring a custom Reflection-based DAO layer, Role-Based Access Control (RBAC), and strict database normalization.
-
 ---
 
 ### 🛠️ Technical Arsenal
